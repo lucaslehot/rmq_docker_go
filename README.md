@@ -11,6 +11,7 @@ The aim of this project is to experiment FaaS (Function as a service), by implem
 # Table of Contents
 - [Project Status](#project-status)
 - [Overview](#overview)
+  - [Todo](#todo)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Installation](#installation)
@@ -23,13 +24,8 @@ The aim of this project is to experiment FaaS (Function as a service), by implem
 - [License](#license)
 
 # Overview
-This project should be carried out according to the following guidelines:
 
-we then have 1 image in entry
-
-what are the entry services, what triggers the resizing, how is structured the db, how do we store in it
-
-# Todo 
+## Todo 
 ***before*** June 22th :
 - send an e-mail to the teacher with a link towards this repo.
 - make the teacher a contributor if the repo is not public.
