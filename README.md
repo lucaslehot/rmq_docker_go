@@ -44,7 +44,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Requirements
 * [Golang](https://golang.org/dl/) (v1.15.8 or higher.)
-* [rmq](https://github.com/adjust/rmq) Golang message queue system
 * Docker installed and running
 * Familiarity with basic Docker functionality and commands
 
@@ -61,8 +60,9 @@ Congratulations.
 # Known Issues
 
 # Built With
-* [Golang](https://golang.org/) - Open source programming language
 * [Docker]() - Application packaging solution
+* [Golang](https://golang.org/) - Open source programming language
+* [rmq](https://github.com/adjust/rmq) Golang message queue system
 
 # Team Members
 * **Lucas Lehot** - [lucaslehot](https://github.com/lucaslehot)
