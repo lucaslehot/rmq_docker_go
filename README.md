@@ -24,12 +24,10 @@ The aim of this project is to experiment FaaS (Function as a service), by implem
 - [License](#license)
 
 # Overview
-
+![](./docs/infra.PNG)
 ![](./docs/cloud.PNG)
 ![](./docs/cloudless.PNG)
 ![](./docs/db_tables.PNG)
-![](./docs/infra.PNG)
-
 
 ## Todo 
 ***before*** June 22th :
@@ -64,7 +62,7 @@ go run .
 Congratulations.
 
 ## Deployment
-
+--
 
 # Known Issues
 None (yet)
