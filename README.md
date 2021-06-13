@@ -25,17 +25,22 @@ The aim of this project is to experiment FaaS (Function as a service), by implem
 
 # Overview
 
+![](./docs/cloud.PNG)
+![](./docs/cloudless.PNG)
+![](./docs/db_tables.PNG)
+![](./docs/infra.PNG)
+
+
 ## Todo 
 ***before*** June 22th :
 - send an e-mail to the teacher with a link towards this repo.
-- make the teacher a contributor if the repo is not public.
-- we shall all be in copy of the mal
-- inside 
+- make the teacher a contributor (if the repo isn't public).
+> note: we shall all be in copy of the e-mail.
 
 The repo should include :
-* the code corresponding to the Local version
+* the code corresponding to the "local" version
 * with a complete Readme, including 
-    * the 2 schemas (any format)
+    * the 2 schemas (any format is fine)
     * how to run the app
     * how to test it (e.g.: does it launch a localhost:8080 with an interface and an image ?)
 
@@ -50,17 +55,22 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installation
 
 ## Quick Start
-```
+````
+sudo docker run
+````
+````golang
 go run .
-```
+````
 Congratulations.
 
 ## Deployment
 
+
 # Known Issues
+None (yet)
 
 # Built With
-* [Docker]() - Application packaging solution
+* [Docker](https://www.docker.com/) - Application packaging solution
 * [Golang](https://golang.org/) - Open source programming language
 * [rmq](https://github.com/adjust/rmq) Golang message queue system
 
