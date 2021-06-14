@@ -1,7 +1,7 @@
 rmq_docker_go
 ====
 #### ***Docker & Golang - FaaS implementation***
-The aim of this project is to experiment FaaS (Function as a service), by implementing an infrastructure which allows a user to upload one image and get it resized, using a message broker and workers.
+The aim of this project is to experiment FaaS (Function as a service), by implementing an infrastructure which allows a user to upload one image and get it resized in several formats, using a message broker and workers.
 
 # Project Status
 *This repo is a [HETIC school](https://www.hetic.net/) project and its purpose is purely educational.* 
