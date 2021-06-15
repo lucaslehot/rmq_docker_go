@@ -45,7 +45,7 @@ func main() {
 
 	// Publish a task
 	// /!\ Move to a controller triggered by http call /!\
-	task := Task{"generate_conversions", 1, 1}
+	task := Task{"generate_conversions", 1}
 
 	taskBytes, err := json.Marshal(task)
 	if err != nil {fmt.Println(err)}
